@@ -1,3 +1,23 @@
-nav {
-  margin-bottom: 100px;
+
+.container .heading .text-center {
+
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+.location-box {
+  width: fit-content;
+  padding: 10px;
+  z-index: 2;
+  position: absolute;
+  top: 22.9%;
+  right: 29%;
 }
